@@ -1,3 +1,4 @@
+---
 title: Foodvision
 emoji: 🚀
 colorFrom: red
@@ -6,6 +7,7 @@ sdk: streamlit
 sdk_version: 1.28.2
 app_file: app.py
 pinned: false
+---
 
 # foodvision
 streamlit of foodvision model
